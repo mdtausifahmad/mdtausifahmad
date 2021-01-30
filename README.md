@@ -1,4 +1,4 @@
-[![tausif](https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/self.png)](https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/java.png?tab=repositories)
+[![tausif](https://raw.githubusercontent.com/mdtausifahmad/mdtausifahmad/master/images/self.png)](https://github.com/mdtausifahmad?tab=repositories)
 
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
