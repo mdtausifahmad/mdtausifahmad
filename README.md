@@ -61,13 +61,22 @@ I’m a Full Stack Engineer who loves getting his hands dirty with code and conv
 
 
 ### Skills Summary 
+
 ♨ Experienced Full Stack Java Developer focused on solving customer problems, improving usability, and maximizing efficiency. Specialized in creating web-based scalable systems using java programming with Spring/Spring Boot based technologies.   
+
 ♨ A good understanding of large-scale distributed systems in practice and comfortable with microservices architectures, API-based and Domain Driven Design (DDD) with event-based communication.   
+
 ♨ Good knowledge of object-oriented concepts and design patterns.   
+
 ♨ Proficient in front end framework like jQuery and Angular 6+ with an understanding of Node.js.   
+
 ♨ Have Proficiency in Relational Databases (MySQL, PostgreSQL, Oracle) as well as non-relational databases (MongoDB, Cassandra) and ORM technologies (JPA,Hibernate).  
-♨ Experienced in Enterprise search technology such as Apache Solr and Elasticsearch.   
+
+♨ Experienced in Enterprise search technology such as Apache Solr and Elasticsearch. 
+
 ♨ Hands-on experience in AWS services and Docker and used caching and messaging services such as Memcached and Apache Kafka.   
-♨ Actively using version control (e.g. Git) and familiar with notions of Continuous Integration and continuous deployment (CI/CD).   
+
+♨ Actively using version control (e.g. Git) and familiar with notions of Continuous Integration and continuous deployment (CI/CD).  
+
 ♨ Willingness to learn new skills as the project requires.   
 
